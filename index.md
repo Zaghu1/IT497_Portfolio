@@ -94,12 +94,14 @@ Project 3: Capstone Portfolio Development
 Developing this portfolio is itself a project that integrates technical presentation with reflection. It demonstrates organization, documentation, and professional communication while showing how faith-based principles guide ethical decision-making in IT work.
 
 Ethical Dilemma Analysis: Misuse of Administrative Privileges
+
 A common ethical dilemma in system administration involves the misuse of administrative privileges. In this scenario, a system administrator used elevated access to view confidential user information that was unrelated to assigned job responsibilities. Although no data was altered, copied, or shared externally, the access violated organizational policies and breached user trust.
 The individuals involved included the system administrator and the organization responsible for safeguarding sensitive information. Administrative access exists to maintain systems, resolve issues, and ensure availability, not for personal curiosity or convenience. In this case, system logs recorded the unauthorized access, allowing the organization to identify the issue and investigate the activity accurately.
 The initial response involved reviewing access logs, documenting the incident, and revoking unnecessary privileges. Management also reinforced access control policies and reminded staff of ethical responsibilities tied to administrative authority. Additional steps included reviewing internal procedures and emphasizing the principle of least-privilege access to reduce future risk.
 From an ethical perspective, this dilemma demonstrates that technical capability does not justify unrestricted access. Professional responsibility requires restraint, integrity, and respect for privacy at all times. Even when no immediate harm occurs, misuse of access undermines trust and can expose organizations to legal, financial, and reputational consequences. Ethical system administration depends on disciplined decision-making, transparency, and alignment with professional standards and organizational values.
 
 Reflective Activity: Temple-Focused Reflection
+
 Taking time for focused spiritual reflection provides clarity, peace, and perspective. In a sacred setting such as the temple, or in a quiet space dedicated to reflection, it becomes easier to step away from distractions and evaluate priorities. This type of reflection emphasizes order, purpose, and alignment between beliefs and actions, allowing individuals to reset their focus on what matters most.
 During reflective moments, principles such as accountability, stewardship, and diligence become more apparent. Spiritual clarity supports professional growth by reinforcing the importance of ethical behavior and responsible decision-making. When the mind is calm and focused, it becomes easier to recognize how spiritual commitments influence daily work habits, interactions with others, and long-term goals.
 Elder Bednar’s analogy of intertwined strands illustrates how spiritual, professional, and personal aspects of life are not separate but deeply connected. Growth in one area strengthens the others. Reflection helps identify areas where improvement is needed and encourages consistency between values and actions. It also provides perspective on challenges, helping individuals respond with patience rather than frustration.
@@ -108,6 +110,7 @@ This reflective practice contributes to professional development by encouraging 
 
 
 References
+
 Bednar, D. A. (2018, October). Gather together in one all things in Christ. General Conference, The Church of Jesus Christ of Latter-day Saints.
 Johnson, C. N. (2021, October). Invite Christ to author your story. General Conference, The Church of Jesus Christ of Latter-day Saints.
 Nelson, R. M. (2021, October). Make time for the Lord. General Conference, The Church of Jesus Christ of Latter-day Saints.
